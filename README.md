@@ -6,8 +6,7 @@ I'm an undergraduate student passionate about **Data Science** and eager to expl
 - 📫 Reach me via email: [dhananjiwithanage@gmail.com](mailto:dhananjiwithanage@gmail.com)  
 
 ### Connect with me:  
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/dhananji-withanage-240a0833a)  
-
+[LinkedIn](https://www.linkedin.com/in/dhananji-withanage-240a0833a) 
 ---  
 ### Languages and Tools:  
 <p align="left">
@@ -23,12 +22,6 @@ I'm an undergraduate student passionate about **Data Science** and eager to expl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
 </p>
 
----  
-### 📊 GitHub Stats:  
-- ⭐ **Total Stars Earned:** 3  
-- 🔄 **Total Commits (2025):** 74  
-- 🔀 **Total PRs:** 0  
-- 🛠 **Total Issues:** 0  
-- 📌 **Contributed to (last year):** 4  
+  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhananji-Withanage&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjithakshi&show_icons=true&theme=dark)
