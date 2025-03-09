@@ -27,4 +27,4 @@ I'm an undergraduate student passionate about **Data Science** and eager to expl
 
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjithakshi&show_icons=true&theme=dark_blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjithakshi&show_icons=true&theme=transparent)
