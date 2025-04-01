@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Dhananji Withanage  
 #### Welcome to my GitHub profile!  
-I'm an undergraduate student passionate about **Data Science** and eager to explore its endless possibilities.
+I'm an undergraduate student passionate about Data Science and eager to explore its endless possibilities.
 
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, and **AI**.  
 - 📫 Reach me via email: [dhananjiwithanage@gmail.com](mailto:dhananjiwithanage@gmail.com)  
